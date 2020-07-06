@@ -30,7 +30,7 @@
     <div class="float-right">
       <ul class="nav navbar-nav pull-xs-right">
           <li class="nav-item ">
-            <i class="fas fa-phone-volume"></i> <strong> <a class="nav-item" href="tel:017630720324">017630720324</a></strong>
+            <i class="fas fa-phone-volume"></i> <strong> <a class="nav-item" href="tel:017630720326">017630720326</a></strong>
           </li>
         </ul>
     </div>
@@ -47,7 +47,7 @@
         
         <h2 class="card-title h2 my-4 py-2">Wir kümmern uns um Ihren Garten - und Sie genießen!</h2>
         <p class="mb-4 pb-2 px-md-5 mx-md-5">Unser Team bringt Ihr privates und öffentliches Grün in Topform. Mit außergewöhnlichen Gestaltungsideen, professioneller Planung und liebevoller Ausführung bekommen Sie bei uns alles rund um Natur und Garten.</p>
-        <a href="tel:017630720324" class="btn btn-dark-green"><i class="fas fa-phone-volume"></i> 017630720324</a> 
+        <a href="tel:017630720326" class="btn btn-dark-green"><i class="fas fa-phone-volume"></i> 017630720326</a> 
   
       </div>
     </div>
@@ -256,9 +256,9 @@
 
           <p class="font-weight-bold">Giardino GartenBau</p>
         
-          <p>  Addresse: <strong> Försterstraße 46 - 46045 Oberhausen</strong></p>
+          <p>  Addresse: <strong> Försterstraße 46 - 46149 Oberhausen</strong></p>
           <p>  Email: <strong>giardinogartenbau@gmail.com</strong> </p>
-          <p>  Handy: <strong> <a href="tel:017630720324">017630720324</a> </strong>  </p>
+          <p>  Handy: <strong> <a href="tel:017630720326">017630720326</a> </strong>  </p>
           <a class="font-weight-bold" href="#" >ÜBER UNS<i class="fas fa-angle-right ml-2"></i></a>
 
         </div>
